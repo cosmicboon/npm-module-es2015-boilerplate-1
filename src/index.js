@@ -13,3 +13,5 @@ newDiv.appendChild(br);
 newDiv.appendChild(sub);
 
 document.body.appendChild(newDiv);
+
+export default Caculater;
