@@ -1,3 +1,4 @@
+
 {
   "name": "YOUR_PROJECTNAME",
   "version": "0.1.0",
@@ -13,7 +14,10 @@
   },
   "contributors": {
     "author": "Jeff Gu Kang",
-    "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)"
+    "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)",
+    "author": "TylorShin",
+    "author": "ohdoking",
+    "author": "choseungyoon"
   },
   "license": "MIT",
   "devDependencies": {
