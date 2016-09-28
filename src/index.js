@@ -1,4 +1,4 @@
-import Caculater from './calculator';
+import Caculater from './calculator';	// import example calculator
 
 const c = new Caculater();
 
