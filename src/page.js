@@ -1,7 +1,7 @@
-import Caculater from './calculator';	// import example calculator
+import Caculator from './calculator';	// import example calculator
 
 function show() {
-	const c = new Caculater();
+	const c = new Caculator();
 
 	const newDiv = document.createElement('h1');
 	const br = document.createElement('br');

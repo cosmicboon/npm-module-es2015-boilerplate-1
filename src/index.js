@@ -1,4 +1,4 @@
-import Caculater from './calculator';	// import example calculator
+import Caculator from './calculator';	// import example calculator
 import show from './page'; // show example page
 
-export default Caculater;
+export default Caculator;
