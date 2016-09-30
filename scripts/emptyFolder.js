@@ -1,5 +1,6 @@
 import fs from 'fs-extra';
 
+// to delete existing built bundle with windows environment
 function emptyDist() {
   return new Promise((resolve, reject) => {
     fs.emptyDir('../../dist', (err) => {
